@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Player_1 = require("./Player");
-const Game_1 = require("./Game");
+const Player_1 = require("./src/Player");
+const Game_1 = require("./src/Game");
 // players
 let player1 = new Player_1.Player('Anthony');
 let player2 = new Player_1.Player('Mickael');

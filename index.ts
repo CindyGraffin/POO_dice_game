@@ -1,7 +1,7 @@
-import { Dice } from "./Dice";
-import { Cup } from "./Cup";
-import { Player } from "./Player";
-import { Game } from "./Game";
+import { Dice } from "./src/Dice";
+import { Cup } from "./src/Cup";
+import { Player } from "./src/Player";
+import { Game } from "./src/Game";
 
 // players
 let player1 = new Player('Anthony');
